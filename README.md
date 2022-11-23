@@ -7,10 +7,12 @@
 ## Aprendizados
 
 ☠️ Aprendi a mexer com os operadores aritméticos e 
-operadores de incremento em C.
+operadores de incremento.
 
 ☠️ I learned to work with arithmetic operators and
-increment operators in C.
+increment operators.
 ## Stack utilizada
 
-**Back-end:** Dev C++ | C
+**Front-end:** VS Code | HTML
+
+**Back-end:** VS Code | Javascript
