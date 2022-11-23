@@ -4,14 +4,15 @@
 
 ☠️ Code to find the predecessor of a number.
 
-## Aprendizados
+## Aprendizados | Learnings
 
 ☠️ Aprendi a mexer com os operadores aritméticos e 
 operadores de incremento.
 
 ☠️ I learned to work with arithmetic operators and
 increment operators.
-## Stack utilizada
+
+## Stack utilizada | Stack used
 
 **Front-end:** VS Code | HTML
 
